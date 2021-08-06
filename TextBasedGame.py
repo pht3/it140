@@ -1,7 +1,3 @@
-# Philong Tran
-#finallllllllllllllllllllll projectttttt
-#it's been so much fun being in this class
-#Thank you so much for all your positive comments and great feedback
 
 # function showing the goal of the game and move commands
 def show_instructions():
